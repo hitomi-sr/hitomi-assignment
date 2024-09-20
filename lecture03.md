@@ -4,25 +4,25 @@
          名前: puma  
          バージョン: 6.4.2  
          
-         ![](/images/1pumaversion.jpg)
+![](/images/1pumaversion.jpg)
          
          
          
          APサーバー終了後、アプリケーション起動  
          
-         ![](/images/2pkill.jpg)
+![](/images/2pkill.jpg)
          
          
          
          APサーバー起動  
          
-         ![](/images/3bootingpuma.jpg)
+![](/images/3bootingpuma.jpg)
          
          
          
          APサーバー起動後、再度アプリケーション起動  
          
-         ![](/images/4bootingpuma.jpg)
+![](/images/4bootingpuma.jpg)
          
          
          
@@ -31,19 +31,19 @@
          名前: MySQL  
          バージョン: 8.4.2  
          
-         ![](/images/1mysqlversion.jpg)
+![](/images/1mysqlversion.jpg)
          
          
          
-         APサーバー終了後、アプリケーション起動  
+         DBサーバー終了後、アプリケーション起動  
          
-         ![](/images/2mysqlstop.jpg)
+![](/images/2mysqlstop.jpg)
          
          
          
-         APサーバー起動後、再度アプリケーション起動  
+         DBサーバー起動後、再度アプリケーション起動  
          
-         ![](/images/3mysqlstart.jpg)
+![](/images/3mysqlstart.jpg)
          
          
          
@@ -59,4 +59,5 @@
              「与えられた情報にヒントはないか？」です。
              もちろん、自分でエラーコードをコピペして検索をかけることで解決したこともあったが、
              結局は講義動画を見返して手順を整理したり、メモを取ったりする事で解決できた問題が度々あった。
-             この事から、実際の業務でタスクを振られた際に、与えられている指示文書や公式ドキュメントなどから得られる情報はないか？を常に意識しながら作業しようと思った。
+             この事から、実際の業務でタスクを振られた際に、与えられている指示文書や公式ドキュメントなどから
+             得られる情報はないか？を常に意識しながら作業しようと思った。
